@@ -3,7 +3,7 @@ visualize_obb.py
 
 Visualize DOTA Oriented Bounding Boxes (OBB)
 
-Author: Sidharth V
+Author: Sujal Krishna das
 Project: Aircraft Research using DOTA
 """
 
